@@ -1,0 +1,27 @@
+{
+  "name": "Controller",
+  "version": "1.0.0",
+  "description": "Cordova appInfo Plugin",
+  "cordova": {
+    "id": "Controller",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1903514970/controller.git"
+  },
+  "keywords": [
+    "cordova",
+    "Controller",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "dengjun",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/1903514970/controller/issues"
+  },
+  "homepage": "https://github.com/1903514970/controller#readme"
+}
