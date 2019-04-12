@@ -29,7 +29,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Controller">
-                <param name="android-package" value="com.sobey.cordova_plugins.controller.controller"/>
+                <param name="android-package" value="com.sobey.cordova_plugins.controller.Controller"/>
             </feature>
         </config-file>
 

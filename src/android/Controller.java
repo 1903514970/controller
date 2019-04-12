@@ -1,4 +1,4 @@
-package com.sobey.cordova_plugins.controller.controller;
+package com.sobey.cordova_plugins.controller;
 
 import android.app.Activity;
 import android.content.Context;
